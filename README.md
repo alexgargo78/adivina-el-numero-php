@@ -10,7 +10,7 @@ Juega aquí:<>
 
 <img width="400px" src="img/captura2.png">
 
-<img width="400px" src="img/kaptura3.png">
+<img width="400px" src="img/captura3.png">
 
 ## Caracteristicas del juego
 
