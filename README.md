@@ -8,7 +8,7 @@ Tendrás <ins>5 intento</ins> para averiguar el número.
 
 <img width="400px" src="img/captura2.png">
 
-<img width="400px" src="img/captura3.png>
+<img width="400px" src="img/captura3.png">
 
 ## Caracteristicas del juego
 
