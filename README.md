@@ -1,2 +1,2 @@
 # adivina-el-numero-php
-juego realizado en php que consiste en adivinar un número creado por el ordenador 
+Juego realizado en **php** en el que el usuario intenta adivinar el número que ha pensado el ordenar. 
